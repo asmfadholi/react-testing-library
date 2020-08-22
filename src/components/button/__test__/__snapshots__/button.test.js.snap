@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matched snapshot 1 1`] = `
+Array [
+  <div
+    className="button-style"
+    data-testid="button"
+  >
+    save
+  </div>,
+  <button
+    data-testid="count"
+    onClick={[Function]}
+  >
+    Click to increase: 
+    0
+  </button>,
+]
+`;
+
+exports[`Matched snapshot 2 1`] = `
+Array [
+  <div
+    className="button-style"
+    data-testid="button"
+  >
+    Click me
+  </div>,
+  <button
+    data-testid="count"
+    onClick={[Function]}
+  >
+    Click to increase: 
+    0
+  </button>,
+]
+`;
